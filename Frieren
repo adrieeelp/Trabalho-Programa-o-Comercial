@@ -1,8 +1,61 @@
-{
- "nome_t": "Frieren e a Jornada para o Além",
- "nome_o": "Sōsō no Frieren",
- "estudio": "Madhouse.",
- "diretor": "Keiichirō Saitō (1ª Temporada).",
- "roterista": "Tomohiro Suzuki.",
- "ano": "2023"
-}
+[
+  {
+    "id": 1,
+    "nome": "Fairy Tile",
+    "descricao": "Fairy Tile é um jogo de alocação de tiles estratégico e aventureiro que fará você imergir no coração de um Reino de terras mágicas. Desenvolva o Reino de Fairy Tile e, cuidadosamente, mova a Princesa, o Cavaleiro e o Dragão para ler todas as páginas em seu livro e terminar sua história. Seja o primeiro a ler todas as páginas do seu livro para vencer a partida!",
+    "idade": "8+",
+    "jogadores": "2 a 4 jogadores",
+    "tempo": "30 min",
+    "editora_br": "Conclave Editora",
+    "nota_ludopedia": 7.2,
+    "img": "https://iellogames.com/wp-content/uploads/2018/01/FairyTile_mockupFR-951x1024.png"
+  },
+  {
+    "id": 2,
+     "nome": "Dixit",
+    "descricao": "Na vez de cada jogador, o jogador escolhe uma de suas 6 cartas na mão e dá uma dica sobre a arte da mesma, pode ser uma palavra, frase, mímica, cantar (ou cantarolar) um música, após isso o jogador separa esta carta virada para baixo.
+Os outros jogadores olham na própria mão e dentre suas 6 cartas escolhem uma que melhor se encaixar naquela dica, separando junto com a carta do jogador da vez, também com a face para baixo.
+As cartas são embaralhadas e reveladas, os outros jogadores devem descobrir qual a carta do jogador da vez, e por meio de votação, pontos são distribuídos. Dependendo se todos acertarem, nenhum acertar, ou alguma condição intermediária a isso. O jogador da vez busca justamente a condição que alguém erre e alguém acerte.
+O jogador que primeiro atingir 30 pontos vence.",
+    "idade": "8+",
+    "jogadores": "3 a 8 jogadores",
+    "tempo": "30 min",
+    "editora_br": "Galápagos",
+    "nota_ludopedia": 8.2,
+    "img": "https://cdn.svc.asmodee.net/production-asmodeenordics/uploads/2022/01/DIXIT-REFRESH_box_L_NOR-1024x683.png"
+  },
+  {
+    "id": 3,
+    "nome": "Century: Edição Golem",
+    "descricao": "Você é o líder de uma caravana que precisa viajar entregando cristais por todo mundo. Nesse caminho você descobre a encantadora beleza da rota de comércio de cristais, explora os mercados, melhora o que tem a oferecer, vende e pontua!
+Nesse jogo você precisa traçar uma estratégia de comerciante de cristal e conseguir mais pontos de vitória para vencer seus oponentes. A cada rodada os participantes possuem uma ação: comprar, jogar, reivindicar ou devolver as cartas. O importante é desenvolver bem sua estratégia, já que o vencedor é quem conseguir mais pontos de vitória.",
+    "idade": "8+",
+    "jogadores": "2 a 5 jogadores",
+    "tempo": "45 min",
+    "editora_br": "Galápagos",
+    "nota_ludopedia": 8.2,
+    "img": "https://paizinhovirgula.com/wp-content/uploads/2021/06/century-caixa-copy2.png"
+  },
+  {
+    "id": 4,
+    "nome": "Encantados (3ª Edição)",
+    "descricao": "Encantados é um filler em que o jogador assume o papel de um jardineiro e precisa popular seu jardim com criaturas mágicas. Fadas, Duendes, Gnomos, Trolls, Goblins e Kobolds! E mais, cada raça tem uma habilidade especial para te ajudar (ou atrapalhar o amiguinho/equipe adversária). O jogo sabe equilibrar simplicidade com alta rejogabilidade e muita diversão. Maravilhoso em todos os aspectos, seja na sua mecânica simples, seja na sua arte caprichada!",
+    "idade": "10+",
+    "jogadores": "2 a 4 jogadores",
+    "tempo": "45 min",
+    "editora_br": "Ace Studios",
+    "nota_ludopedia": 7.9,
+    "img": "https://cdn.vnda.com.br/780x/tocadotabuleiro/2023/08/04/13_11_17_771_13_8_1_141_encantados01.png?v=1691165477"
+  },
+  {
+    "id": 5,
+    "nome": "Tiny Epic Dungeons",
+    "descricao": "Em Tiny Epic Dungeons, os jogadores controlam um bando de heróis explorando uma masmorra traiçoeira em busca do temível Dungeon Boss. Os heróis avançam pela masmorra uma sala por vez. Em cada esquina, goblins e asseclas ferozes procuram bloquear o caminho dos heróis. Onde não há um inimigo, armadilhas são colocadas, prontas para atacar até mesmo o Herói mais preparado."
+    "idade": "14+",
+    "jogadores": "1 a 4 jogadores",
+    "tempo": "60 min",
+    "editora_br": "MeepleBR Jogos",
+    "nota_ludopedia": 8.3,
+    "img": "https://www.ludum.fr/8983-large_default/tiny-epic-dungeons.jpg"
+  }
+]
