@@ -13,10 +13,7 @@
   {
     "id": 2,
      "nome": "Dixit",
-    "descricao": "Na vez de cada jogador, o jogador escolhe uma de suas 6 cartas na mão e dá uma dica sobre a arte da mesma, pode ser uma palavra, frase, mímica, cantar (ou cantarolar) um música, após isso o jogador separa esta carta virada para baixo.
-Os outros jogadores olham na própria mão e dentre suas 6 cartas escolhem uma que melhor se encaixar naquela dica, separando junto com a carta do jogador da vez, também com a face para baixo.
-As cartas são embaralhadas e reveladas, os outros jogadores devem descobrir qual a carta do jogador da vez, e por meio de votação, pontos são distribuídos. Dependendo se todos acertarem, nenhum acertar, ou alguma condição intermediária a isso. O jogador da vez busca justamente a condição que alguém erre e alguém acerte.
-O jogador que primeiro atingir 30 pontos vence.",
+    "descricao": "Na vez de cada jogador, o jogador escolhe uma de suas 6 cartas na mão e dá uma dica sobre a arte da mesma, pode ser uma palavra, frase, mímica, cantar (ou cantarolar) um música, após isso o jogador separa esta carta virada para baixo. Os outros jogadores olham na própria mão e dentre suas 6 cartas escolhem uma que melhor se encaixar naquela dica, separando junto com a carta do jogador da vez, também com a face para baixo. As cartas são embaralhadas e reveladas, os outros jogadores devem descobrir qual a carta do jogador da vez, e por meio de votação, pontos são distribuídos. Dependendo se todos acertarem, nenhum acertar, ou alguma condição intermediária a isso. O jogador da vez busca justamente a condição que alguém erre e alguém acerte. O jogador que primeiro atingir 30 pontos vence.",
     "idade": "8+",
     "jogadores": "3 a 8 jogadores",
     "tempo": "30 min",
@@ -27,8 +24,7 @@ O jogador que primeiro atingir 30 pontos vence.",
   {
     "id": 3,
     "nome": "Century: Edição Golem",
-    "descricao": "Você é o líder de uma caravana que precisa viajar entregando cristais por todo mundo. Nesse caminho você descobre a encantadora beleza da rota de comércio de cristais, explora os mercados, melhora o que tem a oferecer, vende e pontua!
-Nesse jogo você precisa traçar uma estratégia de comerciante de cristal e conseguir mais pontos de vitória para vencer seus oponentes. A cada rodada os participantes possuem uma ação: comprar, jogar, reivindicar ou devolver as cartas. O importante é desenvolver bem sua estratégia, já que o vencedor é quem conseguir mais pontos de vitória.",
+    "descricao": "Você é o líder de uma caravana que precisa viajar entregando cristais por todo mundo. Nesse caminho você descobre a encantadora beleza da rota de comércio de cristais, explora os mercados, melhora o que tem a oferecer, vende e pontua! Nesse jogo você precisa traçar uma estratégia de comerciante de cristal e conseguir mais pontos de vitória para vencer seus oponentes. A cada rodada os participantes possuem uma ação: comprar, jogar, reivindicar ou devolver as cartas. O importante é desenvolver bem sua estratégia, já que o vencedor é quem conseguir mais pontos de vitória.",
     "idade": "8+",
     "jogadores": "2 a 5 jogadores",
     "tempo": "45 min",
