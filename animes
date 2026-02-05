@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nome": "Jujutsu Kaisen",
+    "genero": "Ação, Fantasia Sombria, Sobrenatural",
+    "ano": 2020,
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/4/46/Jujutsu_kaisen.jpg",
+    "sinopse": "Jujutsu Kaisen acompanha Yuji Itadori, um estudante do ensino médio que acaba se envolvendo com o mundo das maldições ao engolir um dedo amaldiçoado pertencente a Ryomen Sukuna. Agora, ele passa a viver entre feiticeiros jujutsu, lutando contra espíritos amaldiçoados enquanto tenta controlar o poder que carrega dentro de si."
+  },
+  {
+    "id": 2,
+    "nome": "Sōsō no Frieren",
+    "genero": "Aventura, Fantasia, Drama",
+    "ano": 2023,
+    "imagem": "https://www.intoxianime.com/wp-content/uploads/2023/12/GB9coTVXcAAgTi5-768x1024.jpg",
+    "sinopse": "A história segue Frieren, uma maga elfa que fez parte do grupo de heróis que derrotou o Rei Demônio. Devido à sua longevidade, ela vê seus companheiros humanos envelhecerem e morrerem. A trama explora sua jornada para entender os humanos e o significado das memórias deixadas por aqueles que partiram."
+  },
+  {
+    "id": 3,
+    "nome": "Shuumatsu no Valkyrie",
+    "genero": "Ação, Fantasia, Torneio",
+    "ano": 2021,
+    "imagem": "https://www.intoxianime.com/wp-content/uploads/2022/06/Shuumatsu-no-Valkyrie-Record-of-Ragnarok-min-scaled-1.jpg",
+    "sinopse": "A cada 1000 anos, os deuses se reúnem para decidir o destino da humanidade. Decididos a extinguir a raça humana, eles são desafiados pela Valquíria Brunhilde a realizar o Ragnarok: um torneio de 13 lutas entre os maiores heróis da humanidade e os deuses mais poderosos."
+  },
+  {
+    "id": 4,
+    "nome": "Solo Leveling",
+    "genero": "Ação, Fantasia",
+    "ano": 2024,
+    "imagem": "https://i.pinimg.com/736x/04/49/22/044922ffdea0efdd8c3a2f5dcf9ac555.jpg",
+    "sinopse": "Em um mundo onde caçadores combatem monstros, Jinwoo Sung é conhecido como o caçador mais fraco de toda a humanidade. Após sobreviver a uma masmorra mortal, ele recebe um sistema misterioso que permite que apenas ele suba de nível, transformando-o de um fraco em uma potência inigualável."
+  },
+  {
+    "id": 5,
+    "nome": "Ranking of Kings",
+    "genero": "Aventura, Fantasia",
+    "ano": 2021,
+    "imagem": "https://static.wikia.nocookie.net/character-stats-and-profiles/images/7/70/Bojji_2022_anime_ending.webp/revision/latest?cb=20231125091954",
+    "sinopse": "A história gira em torno de Bojji, um príncipe surdo e impotente que nem sequer consegue empunhar uma espada infantil. Como o primogênito, ele se esforça muito e sonha em se tornar o maior rei do mundo, encontrando amigos improváveis e superando preconceitos ao longo do caminho."
+  },
+  {
+    "id": 6,
+    "nome": "Haikyu!!",
+    "genero": "Esportes (Vôlei), Comédia, Drama",
+    "ano": 2014,
+    "imagem": "https://www.un.uniaodosherois.com.br/images/posts/2054-617-conheca-haikyuu-e-suas-curiosidades-tb.jpg",
+    "sinopse": "Inspirado por um jogador profissional de pequena estatura, Hinata Shoyo cria um time de vôlei no ensino fundamental. Ao entrar no ensino médio na escola Karasuno, ele descobre que seu maior rival, Kageyama Tobio, agora é seu companheiro de equipe. Juntos, eles tentam restaurar a glória da escola."
+  },
+  {
+    "id": 7,
+    "nome": "Mob Psycho 100",
+    "genero": "Ação, Comédia, Sobrenatural",
+    "ano": 2016,
+    "imagem": "https://images-cdn.ubuy.co.in/63798e0b4d75021bac5d229a-laminated-mob-psycho-100-poster-anime.jpg",
+    "sinopse": "Kageyama Shigeo, apelidado de Mob, é um garoto com fortes habilidades psíquicas. Ele tenta viver uma vida normal e reprimir seus poderes para não machucar os outros, mas quando seu nível emocional atinge 100%, algo terrível acontece. Ele trabalha como assistente de um charlatão espiritual enquanto lida com a adolescência."
+  }
+]
